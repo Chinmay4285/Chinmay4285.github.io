@@ -1,4 +1,4 @@
 name: Chinmay Yalameli
 markdown: kramdown
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-merlot
 permalink: /blog/:year/:month/:day/:title
