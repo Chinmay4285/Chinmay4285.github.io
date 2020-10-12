@@ -215,8 +215,7 @@ header {
   padding-bottom: 50px;
 }
 header img {
-  display: block;
-  margin: auto;
+  display: inline-block !important;
 }
 header h2 {
   padding-top: 40px;
