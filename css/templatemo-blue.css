@@ -41,9 +41,9 @@ h2 {
 .navbar-default .navbar-brand
 {
   font-weight: 600;
-  font-size: 45px;
+  font-size: 30px;
   padding: 10px 0 0 0;
-  height: 65px;
+  height: 48px;
   line-height: 40px;
   color: #ff4da6;
 }
@@ -54,7 +54,7 @@ h2 {
   color: #333;
   font-size: 14px;
   font-weight: 700;
-  height: 65px;
+  height: 48px;
   line-height: 38px;
   -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
