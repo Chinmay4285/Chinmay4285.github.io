@@ -38,6 +38,7 @@ h2 {
   box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.08);
   margin: 0;
   position: fixed;
+  z-index: 99;
   
 }
 .navbar-default .navbar-brand
