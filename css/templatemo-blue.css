@@ -138,6 +138,22 @@ h2 {
   color: #fff;
 }
 
+.white1 {
+  color: #fff;
+  font-size: 30px;
+}
+.white1 a{color: #fff;  }
+.white1 a:hover { color: #ff4da6; }
+
+.white1 h4{
+  font-size: 25px;
+
+}
+.white1 h3{
+  font-size: 33px;
+  
+}
+
 .about,.skills,
 .education,.languages,
 .contact, .experience {
