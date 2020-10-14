@@ -97,6 +97,15 @@ h2 {
 }
 .accent a{color: #60A9F0;  }
 .accent a:hover { color: #ff4da6; }
+
+.accent1 {
+  font-family: 'Proxima Bold';
+  line-height: 15px;
+  color: #fff;
+}
+.accent1 a{color: #fff;  }
+.accent1 a:hover { color: #ff4da6; }
+
 .paragraph {
   font-family: 'Proxima Bold';
   font-weight: bold;
