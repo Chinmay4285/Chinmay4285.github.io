@@ -3,4 +3,4 @@ It is a project to create a personal website. You can add achievements, projects
 
 # A Glimpse of home page
 ![alt text](https://github.com/Chinmay4285/Chinmay4285.github.io/images/Personal.PNG)
-
+![alt text](https://github.com/Chinmay4285/TensorFlow-Image-Classification-Alexnet/blob/master/Graphs.JPG)
